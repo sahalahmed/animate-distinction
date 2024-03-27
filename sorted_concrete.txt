@@ -1,0 +1,288 @@
+True Label: 0, Predicted Label: 0, Probability: 0.9994078874588013, Text: Lightly knead all ingredients into the [MASK], except salt, pepper and cheese.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9993231296539307, Text: As the [MASK] dry, apply painter's tape to the edges of baseboards and trim, pressing the tape with a 5-in-1 tool or credit card to seal its edges.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992856383323669, Text: The [MASK] then is polished with a cerium oxide compound on a platform of pine pitch for another 16 hours until the resulting parabolic surface is accurate to within a millionth of an inch.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992696642875671, Text: He smells intensely of cologne and fidgets with the [MASK] of salmon and haddock.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992572665214539, Text: He stayed there, hands outstretched, trembling slightly with the effort of a strenuous pose, until the [MASK] dripped to a halt.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992491602897644, Text: Merely a hand's breadth across, the [MASK] holes serve as tiny windows for gazing far back into the planet's history Long before our ancestors invented the wheel, let alone the pollution-belching automobile, Earth passed through dramatic warm spells and ice ages.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992451667785645, Text: Debbie stirred the [MASK] in a large sink filled with floating crab meat.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992334842681885, Text: The fairways were mowed out, and Keller imported a flock of black-faced sheep to keep the [MASK] clipped.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992295503616333, Text: The [MASK] was painted in with an opacity of about 70-80%.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992250204086304, Text: "The laser link through the [MASK] was a little noisy from suspended particulates, but he didn't need a whole lot of detail.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992203712463379, Text: DS: To continue the analogy, you would have to move the [MASK] of the pan out to infinity, which is a little harder problem.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992098808288574, Text: Joanna prepared for the worst, a cold draft seeping through the spaces beneath the [MASK], blue green graphics moving in from the West, a violent clash between fronts.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9992039799690247, Text: The contents of various cholesterin fractions in the [MASK] serum are given in Table 5.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991962313652039, Text: I gently poured the [MASK] into the tank while she watched, again standing on my bandanna and shielding her eyes from the sun.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999189555644989, Text: She crunched the [MASK] and Melly winced.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991862177848816, Text: As they come showering down from the [MASK], the crystals turn the whole area around the tree into an alkali flat where nothing can grow except more whimwhams.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991827607154846, Text: This binding is followed by a rapid loss of platelets from the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991771578788757, Text: This afternoon the [MASK] outside the window are frantic with yellow leaves.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991656541824341, Text: The [MASK] was a vivid green; the tiny organisms that usually coat the blades, dulling their color, were all missing.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991616010665894, Text: CLOSE ON: The brooch lands in the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991614818572998, Text: As the first light began to shimmer on the [MASK], I walked quietly through the living room and into the kitchen to make coffee.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991605281829834, Text: Tempered Masonite and most drawing boards, on the other hand, have oil in them, so they repel the [MASK].)
+
+True Label: 0, Predicted Label: 0, Probability: 0.999159574508667, Text: She understands perfectly how to turn a form, as in the [MASK] dish in Le Petit Dejeuner, where she carefully follows the cool grays of the shadows, the sudden orange warmth in the transition into the lights, and the cool highlights.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991279244422913, Text: In the fourth century BC, the Greek Androsthenes recorded the first written observation of a circadian rhythm -- the daily opening and nightly closing of the [MASK] of a tamarind tree.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9991268515586853, Text: On clear days it would bask in the mild sunlight penetrating the [MASK] doors and sing constantly.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999123752117157, Text: When he said my name, I felt the [MASK] clouding my eyes, and I wanted to throw stones, dirt down the well to crush out his voice.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990905523300171, Text: When we left the farm after 10 years to work and study in another city, all but six of our peach trees were bull-dozed up to turn the [MASK] back into pasture.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990872144699097, Text: The next day, drain and rinse the [MASK] and the bowl.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990756511688232, Text: He gazed out over the [MASK], and the look of pure love I saw on his face made me realize that he wasn't seeing the waste and the desolation an Easterner would claim to see.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999065101146698, Text: My field and laboratory investigations in 1994 and 1997 established well locations and station characteristics, EC measurements, and depths to the [MASK] surface (Tables I and II).
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990547299385071, Text: She reoriented herself, feeling the wind on her face, the rubber grips against her palms, the [MASK] beneath her shoes.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990542531013489, Text: The [MASK] was staked out in the heat of the sun and left to die, the ground scabby with rocks, everything hard, even the sky.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999041736125946, Text: A comparison might be easy to make if the manufacture of the [MASK] induced the same amount or less of each type of emission and used equal or smaller amounts of each type of input.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999041736125946, Text: The [MASK] sloped gently away from us, and the village of Gerrysburg was visible in the distance through the dusty windows.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990298748016357, Text: The [MASK] tower in the abandoned town of Ellenton leaks most of the time from a small hole in its moss-covered side.
+
+True Label: 0, Predicted Label: 0, Probability: 0.999017596244812, Text: Cameras banged on the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990144968032837, Text: While Nebraska's ethanol production is significant, this large midwestern agricultural state produces less than one-third of the anticipated demand for ethanol of a state like California, and that's at a blend of less than ten percent statewide in the [MASK] pool.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9990116357803345, Text: Our fellow survivors didn't emerge from underneath the tarpaulin until just before dawn, when the thumpthumpthump petered away to a dead silence, and Sharon went to open the [MASK] that let daylight, of a kind, shine down into the basement where the last of the neighborhood's survivors spent their nights huddled in darkness.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989979863166809, Text: A sudden, stiffish breeze combs the [MASK] of the willows - their silver undersides glinting in the sunshine like a flashing shoal of fish darting amongst weeds.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998993456363678, Text: Yapping at the [MASK] of their prey.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989835619926453, Text: The turf-covered expanse he asks us to behold, the beauty of its smoothness are no less the [MASK] of the laws he spent his life trying to understand.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998970627784729, Text: The floors, the [MASK], and even the tables were covered in common white tile.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989697933197021, Text: He trimmed back shrubbery and checked the insulation around the [MASK] pipes and helped his wife lay down straw in her flower beds.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989610910415649, Text: I liked to watch the city recede, the [MASK] buildings of the Bronx falling away on the side of the tracks.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989603757858276, Text: Got a hole, ten feet diameter, in the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989597797393799, Text: However, the [MASK] distribution in Zunil is much more skewed than in Almolonga.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989546537399292, Text: The [MASK] will run down the string.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989423155784607, Text: I did n't know if I could be a great worker or not but in that mid-day heat, with the [MASK] under my feet all but combusting into flames, I really was n't a great worker.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989399313926697, Text: No park to play in afterwards where you can take off your shoes and feel the [MASK] beneath your feet.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989394545555115, Text: We drove all the way into the [MASK], far from city noises.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989286065101624, Text: Shallower lakes may have frozen in the past few hundred thousand years, during spells when the [MASK] sheet was thinner, says Robin Bell, a geophysicist at Columbia University's Lamont-Doherty Earth Observatory in Palisades, N.Y.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989262223243713, Text: In the 1970 Oakland hills fire, which consumed 37 homes and damaged 18, the vulnerability of the [MASK] system became clear when severed power lines shut down pumping plants and a hilltop reservoir ran dry.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989253878593445, Text: Funny Cide runs almost like a car -- hit the [MASK] whenever you want and get as much speed as you need.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989223480224609, Text: Only about 1 percent of the calcium carbonate that's dissolved in the [MASK] flowing down a stalactite remains on that formation, Goldstein and his colleagues estimate.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989159107208252, Text: Startled, he stood naked and shivering, harmless fragments of tempered glass piled on his feet, the [MASK] door frame twisted like a bizarre paper clip.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989075660705566, Text: In the middle of the creek, the [MASK] was about ten feet deep, but he was afraid to dive.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9989023208618164, Text: The 3 kilometers or so of ice acts effectively as an insulating blanket that protects the bedrock underneath the [MASK] from the cold temperatures above, " says Siegert.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988778233528137, Text: The [MASK] slid down Rem's throat and his brain started to feel light and fuzzy, distractible.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988711476325989, Text: It seems that back in thirteenth century Spain, when the Christians were fighting the Muslims and were about to be slaughtered in a certain battle, a shepherd boy showed the Christians a secret pass through the [MASK], by means of which they were able to take the enemy by surprise.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998867392539978, Text: Across from me, sunken in the [MASK] above my neighbor's locker, the small barred window looked like lips peeled back and affixed with a shine.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988614320755005, Text: Calmly the night climbed onto the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988560676574707, Text: The [MASK] hadn't been cut since the fire and was full of spring wildflowers.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988338351249695, Text: Morgan raised hackles in 1903 by bankrolling Reliance, a marvel 200 feet long, featuring a telescoping mast that could rise 199 feet above the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988304972648621, Text: Yet their edges are often neglected, perhaps on the assumption that any tool used for digging or scratching around in the [MASK] can't possibly stay sharp.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9988200068473816, Text: I don't think she can live in the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9987977743148804, Text: Once blended, the materials are fed into a discharge auger, onto a conveyor, and into the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9987776875495911, Text: Erik uses his powers to lift Shaw's submarine out of the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9987668991088867, Text: The fuel of choice is natural gas, but the [MASK] turbines can alternately be switched over to fuel oil.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998766303062439, Text: Based on the [MASK] by which we know them, Clovis people took the country by storm in a matter of a few centuries -- and then faded quickly from the archaeological record.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9987542629241943, Text: I have been saved by the [MASK] of the lamb and proudly acknowledge Jesus Christ as my lord and savior.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998745322227478, Text: She crashed into the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9987227320671082, Text: Plus the city had to cut down the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9986841082572937, Text: Just as we had used up all the lift the wings had to offer us on their own, we cleared the pass and skimmed onto the [MASK] in the unaccustomed silence.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9986728429794312, Text: The incubation time depended directly on the amount consumed, so the more that was in the [MASK] supply, the faster the conversions would occur.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9986710548400879, Text: Posters with Chinese characters cover the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.99866783618927, Text: A wave approaches and I am lifted just before the [MASK] buries my body.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9986409544944763, Text: It was a cold fall and the wind came down from the [MASK].''
+
+True Label: 0, Predicted Label: 0, Probability: 0.998630940914154, Text: They want to own the [MASK] and be able to work in their own yard.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985896944999695, Text: Finding ways to increase hunting opportunity in a state where all but a smidgen of the [MASK] is under private ownership is a tall task.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985862970352173, Text: " We were the tallest thing on the [MASK] for 360 degrees, and made of metal," Jim Baskett remembered.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985836744308472, Text: "The wind can be worse than the cold," he says, his left hand gripping the steerer in the tugboat's wheelhouse, plowing through the [MASK] south of Navy Pier.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985458850860596, Text: It didn't take five minutes to unload the trailer, and then the [MASK] were spread around on the grass.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985374212265015, Text: Sitting on her side of the bed near the phone, he'd seen the [MASK] pooling on the mattress.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9985359907150269, Text: She moved quickly to the plant and felt the [MASK], saying while still stooped, "No, not for a while.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998480498790741, Text: We were working so fast that I didn't get a chance to examine the [MASK] to see if there were any cubbyholes where the curator might have hidden anything.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9984695315361023, Text: The [MASK], for example, appears to be a pretext for a series of social demands, but beyond that is the foundation of something that is so strong it cannot be described nor defined, words cannot capture it.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9984455704689026, Text: Portable generators are also set up on the streets outside the [MASK] tower.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9983761310577393, Text: The husband drained his drink and flung the [MASK] cubes at the fence.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9983507394790649, Text: Following an audit, the Minnesota Department of Revenue assessed more than $94,000 in use tax, including interest, on Custom Ag's "use" of the grain bins by incorporating the [MASK] in the grain drying systems Custom Ag sold to Minnesota farmers.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9983364939689636, Text: In December 1987 we held an auction to sell the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9983046054840088, Text: He got dragged down under the [MASK] and drowned.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9982648491859436, Text: The [MASK] is routed to a wetland constructed for that purpose.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998262345790863, Text: " The boy's undershirt hung over his pants; he exhaled with exhaustion, let his oar just hang in the [MASK], and closed his eyes.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9982597231864929, Text: We spend the beginning of the season anticipating the [MASK] and the worst part of winter immersed in their fiery blossoms.
+
+True Label: 0, Predicted Label: 0, Probability: 0.998247504234314, Text: The hotel's accommodations are spacious and bright, offering magnificent mountain views, and much of the [MASK] is the original Eastlake, an American version of William Morris.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9982125759124756, Text: The frenetic pace of the [MASK] slowed and the river braided -- our greatest challenge now became avoiding the shallowest channels and steering clear of the shrimp traps along sections of the river.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9982095956802368, Text: Adarand, not Bakke, is the law of the [MASK], said Judge Smith.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9981661438941956, Text: Rodolph's death has prompted Morse to use strobe lights on the [MASK], he said.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9981594681739807, Text: I could feel the strength of the air flowing through me, traveling all the [MASK] of my blood.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9980922341346741, Text: After a first consultation with her client ($125 an hour), Ms. Da Vinci returned with a few items: some CD's and red fabrics from India to drape over the [MASK] for romantic ambiance.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9980573058128357, Text: But it is a part of Florida that environmentalists say more residents should be concerned about because toxic pollution threatens the air they breathe, the [MASK] they drink, the seafood they eat.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9979172348976135, Text: In the previous two beach outbreaks, the investigators concluded that a swimmer contaminated the [MASK] with E. coli O157:H7 (7, 8).
+
+True Label: 0, Predicted Label: 0, Probability: 0.9978679418563843, Text: Then I got pregnant, and my husband lost his job, and money was really tight, so I saw the [MASK] and thought I was doing good by using what we had instead of buying fresh.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9977961778640747, Text: Amira begum worked long in the cooking shed from where she was aware of all her husband's movements, scrubbing her dishes aver and aver again, until the [MASK] pots tingled like her scalp after a good combing session.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9977273344993591, Text: "He goes over to a glass door that opens onto the [MASK] patio."
+
+True Label: 0, Predicted Label: 0, Probability: 0.9976709485054016, Text: An autopsy showed that the condition had been cured, but that the [MASK] vessels had been damaged by the thrombosis.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9976630210876465, Text: The [MASK] hall must be well cleaned."
+
+True Label: 0, Predicted Label: 0, Probability: 0.9976454377174377, Text: T S Eliot wrote these lines in homage to the epic journey of Sir Ernest Shackleton over the [MASK] of South Georgia, portrayed in his book South: "... it seemed to me often that we were four, not three."
+
+True Label: 0, Predicted Label: 0, Probability: 0.9970917701721191, Text: Our task, rather, is that of taking up the written word, with all its potency, and patiently, carefully, writing language back into the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9970681071281433, Text: Mr. Suleman stared at the [MASK] each day.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9970180988311768, Text: Two days before, when the [MASK] were still open, she'd made her weekly shopping trip to Monticello (the only stores in Bethel sold beef jerky, beer, and Eskimo pies) and she'd found the streets jumbled with barbarians foraging for something to eat.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9969112277030945, Text: While most of us recognize the Bush administration has been doing this, others could n't see the forest for the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9969019889831543, Text: Men in blue and black D'Brovnik livery lined the [MASK], all of them eyeing her, the only figure not hidden in fabric.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9968655705451965, Text: "He landed in the [MASK] clutching a door knob, still attached to the door of the captain's office.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9968557357788086, Text: Consolidated Edison, which had an electrical substation underneath 7 World Trade Center, and its insurance companies have filed a $314 million lawsuit against the Port Authority of New York and New Jersey, which owns the [MASK], charging it with improper use and maintenance of the diesel fuel tanks and citing their role in the fire.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9967507123947144, Text: We skipped that long "I believe in God" prayer and got right to the [MASK] and wine part.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9966920614242554, Text: An elderly couple sat on the [MASK], so desperately sad they gave the room the feel of a cell on death row.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9965617060661316, Text: When Multnomah County transferred the [MASK] to Metro in 1994, the county retained ownership of the commercially zoned lot and the cemetery maintenance building.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9965072274208069, Text: WHY WE LOVE IT: Excellent pizza, lots of wines by the [MASK], and a casual, relaxed, urbane vibe.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9964499473571777, Text: Outtakes reveal Ronald Reagan unable to zip up his pants, Porky Pig saying "sonofabitch," James Cagney slamming a door so hard he shattered the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9955859184265137, Text: Album Madman Across the [MASK] Release date November 1971 Peak chart position No.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9953774213790894, Text: "According to the monastery annals, on the 21st of September 1877 the [MASK] of the Elzendal chapel were opened wide at four o'clock in the morning, as they were every day.
+
+True Label: 0, Predicted Label: 0, Probability: 0.995284378528595, Text: She indicated that as a "populist and feminist critic" she "likes to say that 'the road from Uncle Tom's Cabin leads to The Valley of the [MASK].'"
+
+True Label: 0, Predicted Label: 0, Probability: 0.9951887130737305, Text: Go get the [MASK] and set them up over there."
+
+True Label: 0, Predicted Label: 0, Probability: 0.9946054816246033, Text: When we moved around him, we froze at what we saw Tom-Su looking at on the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9942708015441895, Text: " In fall, when the [MASK] turn, you'll come back and we can go horseback riding," his father said, and he let go of Stuart a bit awkwardly.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9942139983177185, Text: We took our certificates off the [MASK], trophies from the mantelpiece and bookcases, our pictures, our children's pictures, etc.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9935779571533203, Text: The KGB museum tour was followed by a luncheon at the nearby Shield &; Sword restaurant, a longtime gathering place for Russian intelligence officers whose photos adorn the [MASK], and a discussion of Russian politics and social environment then and now.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9925447106361389, Text: I still sometimes help the stage manager, I'm like, " I'll help you set up the [MASK]! "
+
+True Label: 0, Predicted Label: 0, Probability: 0.9925428628921509, Text: THE Palestinian flag and rock star Madonna are equally prominent on the [MASK] of Omar Abu Gharbiyeh's bedroom, though they do not loom equally large in his dreams or his life.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9920531511306763, Text: Instead, she spent the day knocking on the [MASK] of likely Democratic primary voters in Valdosta, Quitman, Dixie, Boston, Thomasville, Barney, Barwick, Pavo and Hahira.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9916068315505981, Text: I thought this is just the power that SF literature can have over and above other SF media; that is, abstract thought experiments based on the [MASK] examples.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9910598397254944, Text: Or if we'd just stayed on Highway 6 and never taken the [MASK] road that runs by Murphy's place.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9909648895263672, Text: It's three and a half weeks before opening night and Jack Gaughan, secretary-treasurer of Sharon Stage and the orchestra conductor of "Phantom," is bolting seats to the [MASK] floor.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9898725748062134, Text: The image seems a surprising choice: It shows Roy, blood streaming down his face, being escorted off the [MASK] by a linesman in Detroit on March 26, 1997.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9897096753120422, Text: His grandfather, Harold Scatterday Sr., started the business in 1945, when the [MASK] on West Colfax was an orchard with a pond in the back.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9885236620903015, Text: His story reads like the children's tale of the little red hen, who plowed the fields, sowed the wheat, harvested and took it to be ground and baked the [MASK] -- and it was not until the bread was.
+
+True Label: 0, Predicted Label: 0, Probability: 0.98711758852005, Text: At breakfast, there was a servant we called Uncle Ben, because he looked like the man on the [MASK] box, whose job it was to pop the toast of the Regius Professor of Greek.'
+
+True Label: 0, Predicted Label: 0, Probability: 0.9866429567337036, Text: In Winter in the [MASK], the narrator discovers a significant family surprise, for him: Yellow Calf, the old, eccentric blind man, with the mock-gothic reputation and comedic nickname of "Bat Man" and with the ability to talk to the deer, is really his grandfather, a man who once was proud and courageous and the brunt of no white man's disdain or joke.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9716545939445496, Text: Something's happening with the [MASK].
+
+True Label: 0, Predicted Label: 0, Probability: 0.9669076204299927, Text: Those were the [MASK] days, back when any team worth its weight in tear-away jerseys was a wishbone wanna-be.
+
+True Label: 0, Predicted Label: 0, Probability: 0.9590135812759399, Text: While it's likely the [MASK] will eventually be developed even if FDA chooses another site, that probably won't happen soon.
+
+True Label: 0, Predicted Label: 0, Probability: 0.8244295120239258, Text: The two new co-stars broke the [MASK] over " a very nice Thai meal in Berlin," Weaving says.
+
+True Label: 0, Predicted Label: 0, Probability: 0.7582005262374878, Text: At this time, the [MASK] of engineering and mathematics have been applied to a very limited degree (11, 12, 48).
+

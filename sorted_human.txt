@@ -1,0 +1,246 @@
+True Label: 1, Predicted Label: 1, Probability: 0.9998001456260681, Text: If the [MASK] did that, why is he still here?"
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997974038124084, Text: One of the [MASK] who traveled to Washington, Walter N. Dewitt, chairman of BankEast, which has about $1 billion in assets, said he is spending far more time with lawyers and regulators than he is on other parts of his business.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997928738594055, Text: The [MASK] contained themselves by looking at their loafers, except for Ned Drake, who brayed like a donkey.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997918009757996, Text: Narrator 1: The [MASK] look at one another.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999790370464325, Text: The [MASK] had made a disparaging comment about Michael's being difficult or hard to get along with.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997897744178772, Text: In addition to the obvious invasion of the locker room, the [MASK] fear employers will believe they were willing participants.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997889399528503, Text: In this case, an assertion of human rights legislation resulted in an even greater violation of the rights of the [MASK] involved.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997884631156921, Text: No longer able to answer every letter, she still becomes enraptured while reading the [MASK]'s reactions and sometimes loses track of the time.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997883439064026, Text: Eventually, it succeeds, as demonstrated by changes in the [MASK]'s artwork.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997876286506653, Text: "If the [MASK] respond negatively," he says, "I think the course of events is that DFCS would then go back to court to sever parental rights and make them eligible for long-term foster care and/or adoption."
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997848868370056, Text: The last image was of the [MASK] who took those pictures: Slain Associated Press photographer Hansi Krauss.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997839331626892, Text: The [MASK] were killed in College Park when their automobile was picked up by fierce winds and flung against some trees not far from Byrd Stadium about 5:45 p.m.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997835755348206, Text: Don't get me wrong, the [MASK] said, nothing like overt prejudice, just difficult.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997828602790833, Text: In this case, a deputy testified that he believed the owner was inside on the basis of prior information and the behavior of the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997815489768982, Text: At the conference, the organizers staged a sing-along for the [MASK], who came filing in from around the hotel, attracted by the sound of a guitar.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997801184654236, Text: This identification results in the accentuation of the perceived similarities between the [MASK] and the other in-group members.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999778687953949, Text: Based on the [MASK]'s book Shrek!
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997784495353699, Text: Incarcerated for three months on charges of spreading Christianity, the [MASK] made headlines after U.S. Special Forces helicopters whisked them away from a prison outside Ghazni, Afghanistan."
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997784495353699, Text: Afterward, the [MASK] accompanied her back to the garden and found the governor waiting worriedly. He saw that his daughter had suddenly become a very beautiful girl.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997782111167908, Text: But the [MASK] was busy fumbling with one of several zippers on his jacket, and his eyes were fixed on Michael's mother.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997777342796326, Text: The [MASK] used the English translation of the abstracts of these publications as part of his own design for dealing with sound in space.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999777615070343, Text: Leaping with joy, the [MASK] would run at top speed: they ran in packs around fields and parking lots; eventually, with stomachs growling for hot rice, they ran in smaller and smaller circles that zeroed in on their homes.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999777615070343, Text: According to the Red Cross, all the [MASK] either emigrated from sub-Saharan Africa or had sexual contact with individuals from that region.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999777615070343, Text: So I think the important thing is to establish a working relationship with the [MASK] so you don't just retain them and then four years later make the phone call, "You're going to come into court and testify."
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997768998146057, Text: "In the house," said the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997760653495789, Text: The [MASK] collected soil from barnyards, gardens, and even the monkey pit at the Bronx Zoo.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997730851173401, Text: At any rate, what is most important is that the [MASK] become learned and discriminating.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997707009315491, Text: To prepare the parent helpers for their responsibilities, the [MASK] gave them notes about the monuments and ideas for interpreting the monuments for the children.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997698664665222, Text: All of the [MASK] were receiving instruction in general education.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997695088386536, Text: The Long Island Museum of Science and Technology, the Nassau Technology Educators Association, and the Electronic Educational Village at the C.W. Post Campus of Long Island University worked closely with the [MASK] to develop their experiments.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997681975364685, Text: In addition, transparency serves as a visual organizer that the [MASK] can refer to at a later point when they are asked to complete some assignment or task based on this learning.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999767005443573, Text: You were one of the main highlights," film stars Carole Lombard and Clark Gable later wrote in a thank-you note to the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.999767005443573, Text: COMPARING PENSION PLANS -- HOW THE MONEY IS INVESTED Employees invest their own retirement funds far more conservatively than the [MASK] who manage traditional corporate pension plans.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997664093971252, Text: Like the Garcias, they are being sheltered by the [MASK]'s Aid Society and are hoping to secure a Section 8 apartment for themselves in the near future.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997649788856506, Text: The focus of the technology integration was an effort to make the various tools as "invisible" as possible to the [MASK] so that their attention could be fully focused on the content being learned rather than on the technology.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999764621257782, Text: To be coded n/a, the event preventing the completion of the step had to be outside the control of the [MASK] (e.g.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997629523277283, Text: The values presented through media to a society influence the values, interests, and ideologies of the [MASK] who make up that society (112).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997616410255432, Text: Grade one directs the [MASK] to "name the states that border the students' state" (p. 63).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997616410255432, Text: The total score divided by the number of items rated represents a measure of the [MASK]'s level of intensity.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997606873512268, Text: Of all the [MASK] approached, only 2 declined to participate.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997605681419373, Text: The [MASK] they treated with cyclosporin were so severely ill that normally they would have required surgery to relieve their symptoms.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997585415840149, Text: Five police officers from the Snellville police department were recently recognized by the Federal Bureau of Investigation for their efforts in capturing the [MASK] who robbed the Community Bank in Grayson in June 2006.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997579455375671, Text: He still has trauma, " the [MASK] says, nodding toward a small boy who stands in the doorway, gazing up at the soldiers.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997552037239075, Text: Additionally, grandparents in many cases, especially where drugs have been an issue, cannot trust the [MASK] to be good caregivers in the years to come and have a heightened sense of insecurity about the future.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997550845146179, Text: Laying out the rationale for issues-centered social studies education would be unwise for another reason: Rationale building must be ongoing or the [MASK]'s thinking will ossify, and the rationale, and the curriculum based on it, will become dysfunctional.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997547268867493, Text: The [MASK] leads the way, and the therapists follow.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997546076774597, Text: My father continues: "And then the [MASK] kissed the little red-haired girl, who was now sleeping, and walked out the door that they had opened for Elijah.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997522234916687, Text: Use familiar names and places when creating written word problems to provide familiarity to the [MASK] attempting to interpret the text of the problem.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997517466545105, Text: Exceptional women environmentalists (The [MASK]'s Hall of Fame Series).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997515082359314, Text: There is some preliminary data that disabilities such as ADD or ADHD overpower the giftedness of the [MASK] (Moon, Zentall, Grskovic, Hall, & Stormont, 2001).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997486472129822, Text: Hopkins and West (1990: 38) suggested a three-phase process to be followed during clinical supervision: Planning conference with the [MASK]: Classroom observation: and Feedback conference.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997478127479553, Text: They did not provide the [MASK] with appropriate learning cues based on the children's ongoing movement responses.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997478127479553, Text: During a recent spring semester, the [MASK] in my children's literature class played board games and card games based on children's stories and evaluated them for their educational value.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997474551200867, Text: Courtroom drama is expected with an anticipated battle between one of Harris County's top prosecutors and the [MASK] widely considered to be the best defense lawyer in town.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999747097492218, Text: Whenever the [MASK] slept at grandmother's house, they made sure to sleep on the bed under the glow.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997466206550598, Text: After 18 months at Caldecott, the [MASK] left the care home and were successfully fostered.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997428059577942, Text: The [MASK] labors away and reaps the fruit.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997407793998718, Text: As the [MASK] grows older, the number of presents requested increases.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997405409812927, Text: 20 The [MASK]'s eyes in the fresco present a condition problem, which I have not seen addressed in debates over the recent cleaning.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997368454933167, Text: If that's not available, the [MASK] will be at greater risk of going missing again, as the reasons they went missing won't have been addressed.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997360110282898, Text: One of the [MASK] shouted.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997346997261047, Text: Sea urchin management authority lies with the California legislature, though in 1973 the legislature authorized the commercial harvest of sea urchins to be subject to regulations set forth by the Fish and Game Commission (Commission), a five-member body appointed by the [MASK] (CDFG18).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997337460517883, Text: All the [MASK] drive BMWs or some such high-end vehicle.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997325539588928, Text: It's all in how you talk to the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997314810752869, Text: Brother Rod had brought all four of the [MASK] from an orphanage in Reyo.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997300505638123, Text: The [MASK] at the elevators spread his arms.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997265934944153, Text: "Oh no," replied the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997233748435974, Text: Cooper & Kennedy, 1989), medical specialty clinics, the [MASK]'s home, daycare facilities, toddler and preschool programs, or rehabilitation centers rather than in typical classroom settings.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997194409370422, Text: Therefore, in the Morita specific psychotherapy, how Dr. Morita, Professor Kora, and his school think of shinkeishitsu are assimilated by the [MASK], unbeknown to themselves.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997193217277527, Text: Three factors were considered when deciding the areas of concentration: (a) the [MASK]'s arithmetic deficits, (b) the classroom teacher's preference, and (c) the student's deficits in other areas.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997177720069885, Text: By tradition Tuareg men cover their faces, though the [MASK] do not.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997147917747498, Text: The [MASK] are where?"
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997135996818542, Text: The department's response to missing-persons reports depends on the [MASK]'s age and the perceived seriousness of the case, said Capt.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997122883796692, Text: If the [MASK] is mature and he's not carrying baggage of an entourage, fine.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997116923332214, Text: In addition, control of the volume of fluid intake by the patient or measurement of the fluid intake was avoided because it would have required measurement techniques that would have altered the chronic care environment of the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997105002403259, Text: Ellis pressed the barrel of his gun against the [MASK]'s throat.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997103810310364, Text: In fact, he called on the [MASK] to go further to cut those costs, which the city and state share.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997099041938782, Text: After the morning practice, Young spent 10 minutes with the [MASK], posing for pictures with each and signing their photos.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997060894966125, Text: The seethe of his predicament -- Betsy's innocence, and the [MASK]'s, and the other woman's; glittering detached details of her, her eyes and mouth, her voice and tears, her breasts and hair -- foamed in him like champagne overflowing a glass.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997046589851379, Text: This was what he did, the [MASK] with the dainty cough on the other end of the phone.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9997023940086365, Text: By meeting the [MASK] on their own turf, the service learner along with the rest of us involved in this project try to stand inside the shoes of the children.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996985197067261, Text: If you know of anybody who was maimed or killed by a drunk driver in the 1970s or '80s, feel free to thank the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996935129165649, Text: Nervous guards patrol as the SOUNDS of the [MASK] singing wafts through the air.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999691367149353, Text: Including the [MASK]'s parents in the process?
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996887445449829, Text: When homeless families leave the Salvation Army's home-based Head Start program in Chicago, the home-based visiting team moves the [MASK] into a center-based Head Start program.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996787309646606, Text: Back in Milford, Kathy and Megan—the [MASK] and daughter—huddle near the refrigerator before they leave, mapping out their choices for a joint return trip in September.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996718168258667, Text: Among the [MASK] and daughters in the book are four Western families - the Camerons, the Sams, the Hawkses and the Lees - luminously photographed by Chesley.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996687173843384, Text: The [MASK] divide and thus conquer.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996600151062012, Text: Hostility and lack of empathy) increases difficult temperament in the [MASK] (e.g.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996564388275146, Text: One of the most important roles of the university supervisor is to assist in matching the [MASK] teacher with the cooperating teacher.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996528625488281, Text: He also uses his theology of the [MASK] to support Christian democracy in opposition to the totalitarian regimes of his day and against what he regards as the degraded individualism of bourgeois democracy.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996458292007446, Text: Most of the [MASK] are illiterate, forcing officers to interact with them constantly just to fill out routine paperwork.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996392726898193, Text: Each side presents the [MASK] that support its position.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996325969696045, Text: (n79) In Spain, the escolania was associated with the cult of the Virgin of Montserrat, and the [MASK]'s performances formed an integral part of services held for the Virgin.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996286630630493, Text: My take on the [MASK] is here's a rich kid who wants to be a player in the Republican Party and living off the family inheritance, "said Jaime Court, president of the Foundation for Taxpayer and Consumer Rights in California, a consumer activist group.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996205568313599, Text: That's the [MASK] who lives next door all right, but that's not the woman.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999617338180542, Text: RAYMOND # (worried) Trust me, sir, I do not wish to ride in the Bradley with the others, I'm just... (beat) The [MASK] do not care for me very much.
+
+True Label: 1, Predicted Label: 1, Probability: 0.99960857629776, Text: The young king might be excused his actions due to weakness or inexperience, but if not even Arthur can protect the [MASK] in his realm, what hope do the afflicted women have that time will grant their king the courage or skill to rescue them?
+
+True Label: 1, Predicted Label: 1, Probability: 0.9996069073677063, Text: Some of the [MASK] and some of the other organizations that have been down here clearly have records, public records, of racist behavior.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9995946288108826, Text: Most of the family, including the [MASK], is involved in the family's theatrical enterprise; the exception is the aging Helena, now retired from the stage, but still the undisputed family authority.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9995552897453308, Text: The [MASK] settle heavily into the seat in front of the women, the only empty seat, while the children pause mutely in the aisle until the father makes a gesture, a downward slice with his hand, and the children drop obediently to their knees and crawl beneath the seats, the two youngest curling together under the parents' seat like twins waiting side by side to be born, while the other, the tallest of the three, huddles beneath the women's seat.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9995311498641968, Text: (AP) - With the [MASK] of the alleged victim in the courtroom, the judge in the Kobe Bryant sexual assault case apologized July 30 for court mistakes that led to the release of sealed information.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9995238780975342, Text: Aroused by the [MASK], both psychologically and sexually, Genji reflected on this alluring and fascinating object:
+
+True Label: 1, Predicted Label: 1, Probability: 0.9994890689849854, Text: On the other hand, for whites and blacks, the family's cohesiveness in the fall corresponded closely with the [MASK]'s independence in the spring, but for American Indians this relationship was reversed.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9994747042655945, Text: "None of us will be exactly the same," says John Devens, the [MASK] of Valdez when the accident occurred, who is now running for Congress.
+
+True Label: 1, Predicted Label: 1, Probability: 0.999430239200592, Text: Standing there at the kiosk of a suburban bookstore, she ached for the [MASK] she fell in love with to return to her.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9993771910667419, Text: And no doubt intentionally playing on America's uneasy memory of Vietnam, they brag that their fighters are so easily able to blindside the [MASK] and "infidels" because they are welcomed by, and move unseen among the Afghan people.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9993706345558167, Text: The [MASK] helps individual students identify their deficiencies and formulate a short-range goal.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9992824196815491, Text: In the [MASK] 7-8 age group, Alderson turned in the best time in the 25 freestyle (15.33) and the 50 freestyle (35.07).
+
+True Label: 1, Predicted Label: 1, Probability: 0.9992534518241882, Text: A girl learns that her links are with other humans, not with the female of animals; she is not called by those names, nor are the [MASK] around her.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9992265701293945, Text: She adapts the patriarchal myth of masterful, masculine generation W a feminine perspective, by unabashedly displacing the figure of the father with the [MASK] as the creator of the universe and identifying herself with that maternal force: "Bes en la misma frente / a la cndida infancia de todo el universo.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9992089867591858, Text: (One sister works as a buyer for the stores; two others are not involved in the business, and Tim's wife, Kooksie, oversees the [MASK]'s merchandise.)
+
+True Label: 1, Predicted Label: 1, Probability: 0.9990758895874023, Text: These women are Berthe, his mother, ever associated with the series of deaths he witnessed as a youth; Clara, his wife, the [MASK] of Florence, the unsurpassable chief critic; and Josette Clotis, crushed by a train just before the Liberation, the mother of Gauthier and Vincent, themselves both killed in a car crash.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9989827275276184, Text: The [MASK] will run on Tuesday, Oct. 16, while the boys will run on Wednesday, Oct. 17.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9985413551330566, Text: Yet in a Chamblee church recreation room, Jim Conaway, 53, and about 40 other guys enthusiastically croon in the best Gay '90s tradition: "When it comes to loving the [MASK], I'm a-way ahead of my time.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9985073208808899, Text: When he got caught stealing cigarettes from the little market, he even tried to hit the [MASK] they called to come scare him.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9984649419784546, Text: They were also required to carry the [MASK] of the sris' wives, fetch water, and accomplish countless other tasks.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9958283305168152, Text: In past years, Bauer and his colleagues at the Counter-Terrorism Unit in Los Angeles have variously shot, electroshocked, drugged, mutilated and beaten suspects for information, as well as staged the mock execution of the [MASK] of one terrorist.
+
+True Label: 1, Predicted Label: 1, Probability: 0.993922233581543, Text: You be the [MASK].
+
+True Label: 1, Predicted Label: 1, Probability: 0.9598245024681091, Text: This legal configuration is doubly unfair because the civil and penal codes, neither of which are based on theological sources, consider women as the [MASK] of men in terms of being liable or culpable under the law.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9518713355064392, Text: The [MASK] of Letters.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9286887645721436, Text: And insofar as Hellenistic influence has tied Christian notions of God and the [MASK] to a "metaphysics of being," it has rendered them vulnerable to the Buddhist critique.
+
+True Label: 1, Predicted Label: 1, Probability: 0.9138985276222229, Text: Wise use was the cornerstone, and Pinchot and his followers had little patience with the still-embryonic notion that the natural world deserved preservation quite as much for its own sake as for the sake of the [MASK] and women who used it.
+
